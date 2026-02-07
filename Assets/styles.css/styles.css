@@ -1,0 +1,28 @@
+.Images{
+    width:12rem;
+  max-width: 100%;
+  height: auto;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.image-center{
+ display: block;
+  margin: auto;
+  width: 20%;
+  
+}
+
+.text{
+    margin:auto;
+    text-align: center;
+    width:60rem;
+}
+
+ul {
+  list-style-type: none;
+}
